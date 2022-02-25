@@ -7,7 +7,8 @@ Goibibo_logo_By_xpath = //a[@class='gi-header-logo__home']
 Login_Or_Signup_By_Xpath = //p[@class='gr-cap-text gr-blue-text gr-bold']
 Or
 Login_Or_Signup_By_Xpath = //div[@class='login__tab gotrible']
-
+or
+Login_Or_Signup_By_id= //div[@id='get_sign_in']
 
 =>Flights-
 Flight_By_xpath = //ul[@class='happy-nav']//li[1]
